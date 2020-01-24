@@ -1,0 +1,5 @@
+c:\users\khand\documents\visual studio 2010\Projects\jan18\jan18\bin\Debug\jan18.exe
+c:\users\khand\documents\visual studio 2010\Projects\jan18\jan18\bin\Debug\jan18.pdb
+c:\users\khand\documents\visual studio 2010\Projects\jan18\jan18\obj\x86\Debug\jan18.exe
+c:\users\khand\documents\visual studio 2010\Projects\jan18\jan18\obj\x86\Debug\jan18.pdb
+C:\Users\khand\documents\visual studio 2010\Projects\jan18\jan18\obj\x86\Debug\jan18.csprojResolveAssemblyReference.cache
